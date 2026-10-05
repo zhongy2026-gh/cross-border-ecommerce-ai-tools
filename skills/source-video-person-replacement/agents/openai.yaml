@@ -1,0 +1,4 @@
+interface:
+  display_name: "源视频人物替换"
+  short_description: "先替换人物，再同步口型；本地优先、短样片验证与节省额度交付"
+  default_prompt: "使用 $source-video-person-replacement，将源视频人物替换成我提供的形象，先做5秒样片，保留原声并同步口型，交付本地验收。"
